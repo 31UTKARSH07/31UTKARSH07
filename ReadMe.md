@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[./profile-pic.png](https://www.vecteezy.com/vector-art/72696284-cute-cartoon-boy-coding-on-laptop-with-headphones-programmer-kid-character-illustration-for-tech-and-education)" width="200" height="200" style="border-radius: 50%;" alt="Utkarsh Profile Pic" />
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg" width="200" height="200" style="border-radius: 50%;" alt="Utkarsh Profile Pic" />
 
   <h1 align="center">Hi there, I'm Utkarsh Pathak! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
